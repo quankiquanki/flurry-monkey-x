@@ -1,0 +1,7 @@
+# Changelog
+
+## [0.1.0] - 2015-11-05
+### Added
+- Prototype code for the Flurry module for Monkey-X. Still needs more testing.
+- Uses Flurry Android v6.5 and Flurry iOS v7.6.6
+- Has two functions, one that initializes the Flurry module and one that logs events.
